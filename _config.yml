@@ -59,8 +59,8 @@ github:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: http://stackoverflow.com/users/5822368/vikram-jakhar
-   flairimageurl: http://stackoverflow.com/users/flair/5822368.png
+   profileurl: https://stackoverflow.com/users/5822368/vikram-jakhar
+   flairimageurl: https://stackoverflow.com/users/flair/5822368.png
 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
