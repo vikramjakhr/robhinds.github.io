@@ -39,6 +39,7 @@ roles:
    start: 2015
    end: Ongoing
    employer: ToTheNew
+   description: Developer
 
 #Education is required
 education:
