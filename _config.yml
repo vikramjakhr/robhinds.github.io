@@ -46,9 +46,11 @@ education:
  - level: Bachelor of Computer Applications (BCA)
    date: 2012
    college: S.S. Jain Subodh College, Jaipur (Rajasthan)
+   university: Rajasthan University
  - level: Master of Computer Applications (MCA)
    date: 2015
    college: C-DAC, Noida (UP)
+   university: IP University, Delhi
 
 #List of interesting Github repo/projects to include - optional
 github:
