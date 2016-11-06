@@ -62,6 +62,8 @@ stackoverflow:
    profileurl: https://stackoverflow.com/users/5822368/vikram-jakhar
    flairimageurl: https://stackoverflow.com/users/flair/5822368.png
 
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+blogfeed: http://vikramjakhar.com
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
